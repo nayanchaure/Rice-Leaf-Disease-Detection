@@ -1,2 +1,2 @@
-# Rice-Leaf-Disease-Detection
+Rice-Leaf-Disease-Detection
 To accurately predict the diseases in rice, a model was trained using transfer learning. This allows the researchers to train the model much faster rather than building the model from scratch. The trained model has achieved high accuracy with minimal cross-entropy or error in predicting results. Therefore, the model can be used to predict or detect rice pests and diseases with very high accuracy. This developed application can be recommended to farmers with smartphone to aid them in controlling rice leaf infestation. These will also help staff of Department of Agriculture to provide assistance to farmers once pests are identified and reported to their office.
